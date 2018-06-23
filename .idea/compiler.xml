@@ -9,8 +9,5 @@
         <module name="krpc" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="krpc" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

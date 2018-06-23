@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="krpc:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="krpc.war">
-      <element id="artifact" artifact-name="krpc:war exploded" />
-    </root>
-  </artifact>
-</component>
